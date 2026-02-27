@@ -1,6 +1,6 @@
 # Avrey Johns
 
-Computer Science major at FSU interested in software development and project building.
+Computer Science major at FSU interested in software development and project building since 2024.
 
 ## Skills
 CPP • Java • HTML
