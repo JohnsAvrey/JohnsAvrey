@@ -5,14 +5,17 @@ Computer Science major at FSU interested in software development and project bui
 ## Skills
 CPP • Java • HTML
 
-## My Projects
-[View all my repositories](https://github.com/JohnsAvrey?tab=repositories)
-
 ## Currently Learning
 - CPP
 - AWS Cloud Computing
 - Data Structures
 - Web Development
+
+## Current Projects
+
+
+## My Repos
+[View all my repositories](https://github.com/JohnsAvrey?tab=repositories)
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avrey-johns-cs-fsu/) 
