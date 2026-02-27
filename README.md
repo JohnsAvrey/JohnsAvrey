@@ -16,7 +16,7 @@ CPP • Java • HTML
 - Web Development - creating a personal website portfolio from scratch using JavaScript, HTML, and CSS
 
 ## My Repositories
-[View my repos](https://github.com/JohnsAvrey?tab=repositories)
+[View my repos](https://johnsavrey.github.io/)
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avrey-johns-cs-fsu/) 
