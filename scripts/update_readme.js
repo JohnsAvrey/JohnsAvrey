@@ -1,7 +1,7 @@
 const https = require("https");
 const fs = require("fs");
 
-const username = "YOUR_USERNAME";
+const username = "JohnsAvrey";
 
 https.get(`https://api.github.com/users/${username}/repos`, {
   headers: { "User-Agent": "node" }
