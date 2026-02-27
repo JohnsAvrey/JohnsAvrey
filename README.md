@@ -16,5 +16,5 @@ CPP • Java • HTML
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avrey-johns-cs-fsu/) 
-[![Portfolio](https://img.shields.io/badge/Projects-green?logo=github&logoColor=white)](https://johnsavrey.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=github&logoColor=white)](https://johnsavrey.github.io/)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red&style=flat)](mailto:johnsavrey@gmail.com)
