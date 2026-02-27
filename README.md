@@ -15,8 +15,6 @@ C++ • Java • HTML
 - Web Development
 
 ## Links
-- [Portfolio](https://johnsavrey.github.io/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/avrey-johns-cs-fsu/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/avrey-johns-12345678/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=Google-Chrome)](https://your-portfolio-link.com)
-- [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your.email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avrey-johns-cs-fsu/)
+- [![Portfolio](https://img.shields.io/badge/Projects-green?logo=github&logoColor=white)](https://johnsavrey.github.io/)
+- [![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red&style=flat)](mailto:your.email@example.com)
