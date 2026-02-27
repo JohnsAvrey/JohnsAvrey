@@ -16,4 +16,4 @@ C++ • Java • HTML
 
 ## Links
 - [Portfolio](https://johnsavrey.github.io/)
-- [LinkedIn](www.linkedin.com/in/avrey-johns-cs-fsu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/avrey-johns-cs-fsu)
